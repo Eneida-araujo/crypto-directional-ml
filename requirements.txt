@@ -1,0 +1,10 @@
+python-binance
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+ta
+torch
+jupyter
